@@ -1,7 +1,7 @@
 def main():
     print ("Hello, World!")
-    print ("Welcome to Python programming.")
-    print ("This is a simple Python script.")
-    print ("You can run this script to see the output.")
+    print ("Welcome to my first python program.")
+    print ("This was just to show myself that I could do it.")
+    print ("That's all for today.")
 
 main()
